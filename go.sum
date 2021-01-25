@@ -197,8 +197,8 @@ github.com/fluxcd/image-automation-controller/api v0.4.0 h1:WMPVYfPQTLMvoINdoBDp
 github.com/fluxcd/image-automation-controller/api v0.4.0/go.mod h1:lHGxbFJNIwgK32YWx9uNf4WR/Z92Hdrl8cn6TzixfUI=
 github.com/fluxcd/image-reflector-controller/api v0.4.1 h1:D1gJL6m7NYE8833eBoLT0qAJZ5Q2Yic3UtAEI10fiWg=
 github.com/fluxcd/image-reflector-controller/api v0.4.1/go.mod h1:MS3mGjZLnzZsfSqVLGbp0WNJr/k8XRFpw4G6ApLFTbc=
-github.com/fluxcd/kustomize-controller/api v0.7.0 h1:IyP6nSw1UOiQSCpOzfsw9INaLMmmVaR7pSdy6y1QSrs=
-github.com/fluxcd/kustomize-controller/api v0.7.0/go.mod h1:GMdry0llCMT50hDcQ70ujmtd3vOXUWCJMTggPpGNM+I=
+github.com/fluxcd/kustomize-controller/api v0.7.1 h1:uNaC5cRuSBSEu4OEHXf3VVrX3FE0+8Ihnsd/zgupWLE=
+github.com/fluxcd/kustomize-controller/api v0.7.1/go.mod h1:GMdry0llCMT50hDcQ70ujmtd3vOXUWCJMTggPpGNM+I=
 github.com/fluxcd/notification-controller/api v0.7.0 h1:/AIzEgjnOaCGcMVHP6TVqWfnFpkNvdlMdk8r6e3yWes=
 github.com/fluxcd/notification-controller/api v0.7.0/go.mod h1:n1ow7Mxdcedrio5pf/HhBbaVp/4yGTFACPgfCtiyWoU=
 github.com/fluxcd/pkg/apis/meta v0.5.0 h1:FaU++mQY0g4sVVl+hG+vk0CXBLbb4EVfRuzs3IjLXvo=
